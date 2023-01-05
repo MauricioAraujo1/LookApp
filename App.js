@@ -10,7 +10,7 @@ const App = () => {
       justifyContent: 'center',
       alignItems: 'center',
     }}>
-      <Text> Hello Mauricio</Text>
+      <Text> Hello World</Text>
     </View>
   )
 }
